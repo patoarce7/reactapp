@@ -22,3 +22,7 @@ header input {
     margin: 20px;
     
 }
+
+.news_item {
+    background: red;
+}
